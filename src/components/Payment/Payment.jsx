@@ -23,6 +23,7 @@ const Payment = () => {
     totalPrice: orderData?.totalPrice,
   };
 
+  console.log(order);
   const cashOnDeliveryHandler = async (e) => {
     e.preventDefault();
 
