@@ -1,4 +1,4 @@
-# End to End DevSecOps Project Using Unisync Project
+# End to End DevSecOps Project Using UniSync Project
 
 
 ### Tools Use:
